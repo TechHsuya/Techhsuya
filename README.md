@@ -7,4 +7,4 @@ as exploring new technical fields.**
 * Currently working on increasing my skill level in the field of Cloud mainly working on ***AWS*** and also in ***Web Development***. 
 * Open to learn new technology and available for internships and to collaborate with others for projects.
 
-<p style="background-color='green'" align="center"><img src="pic.jpg" width=500px></p>
+<p style="background-color='green'" align="center"><img src="ayush-logo.svg" width=500px></p>
