@@ -7,4 +7,4 @@ as exploring new technical fields.
 * Currently working on increasing my skill level in the field of Cloud mainly working on **AWS** and also in **Web Development**. 
 * Open to learn new technology and available for internships and to collaborate with others for projects.
 
-<p align="center"><img src="pic.jpg" width=500px></p>
+<p style="background-color="white"" align="center"><img src="pic.jpg" width=500px></p>
