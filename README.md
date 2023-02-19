@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there👋
 I am Ayush Mamgain a patient developer, team player, with growing expertise in networking, cloud(AWS), and web development, as well
 as exploring new technical fields.
-
-
 
 #### About Me
 * Btech CSE Student who have a keen interest in **Cloud Computing and Networking**. 
