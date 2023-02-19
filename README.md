@@ -1,7 +1,7 @@
 ### Hi there👋
 <a href='https://www.linkedin.com/in/ayush-mamgain-165360192/'><img align='left' alt="linkedin" src="https://github.com/TechHsuya/Techhsuya/blob/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/hsuya24'><img align='left' alt="twitter" src="https://github.com/TechHsuya/Techhsuya/blob/main/assets/twitter.svg" height='18px'/></a>
-<a href='https://leetcode.com/hsuya24/'><img alt="leetcode" src="https://github.com/TechHsuya/Techhsuya/blob/main/assets/leet.svg" height='18px'/></a>
+<a href='https://leetcode.com/hsuya24/'><img alt="leetcode" src="https://github.com/TechHsuya/Techhsuya/blob/main/assets/leetcode.svg" height='20px'/></a>
 
 **I am Ayush Mamgain a patient developer, team player, with growing expertise in networking, cloud (AWS), and web development, as well
 as exploring new technical fields.**
