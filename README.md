@@ -1,6 +1,6 @@
 ### Hi there👋
-<a href='https://www.linkedin.com/in/ayush-mamgain-165360192/'><img align='left' alt="linkedin" src="https://github.com/TechHsuya/Techhsuya/blob/main/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/hsuya24'><img align='left' alt="twitter" src="https://github.com/TechHsuya/Techhsuya/blob/main/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/ayush-mamgain-165360192/'><img align='left' alt="linkedin" src="https://user-images.githubusercontent.com/59652287/221369874-51a8bcf1-abf0-4239-9f99-bd10eecbbfb1.svg" height='18px'/></a>
+<a href='https://twitter.com/hsuya24'><img align='left' alt="twitter" src="https://user-images.githubusercontent.com/59652287/221369897-bca301e1-99c2-4686-80e9-88d9c207485c.svg" height='18px'/></a>
 <a href='https://leetcode.com/hsuya24/'><img alt="leetcode" src="https://user-images.githubusercontent.com/59652287/221369612-9ba03849-fd38-48b0-9382-bcb892507099.svg" height='20px'/></a>
 
 **I am Ayush Mamgain a patient developer, team player, with growing expertise in networking, cloud (AWS), and web development, as well
